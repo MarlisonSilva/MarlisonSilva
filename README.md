@@ -6,7 +6,7 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img title="Laravel" align="center" alt="Laravel" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img title="Laravel" align="center" alt="Laravel" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img title="Django" align="center" alt="Django" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img title="Java" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="HTML5" align="center" alt="HTML" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
